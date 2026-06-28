@@ -1,4 +1,4 @@
-%% July 2025: analysis data FDR Sokolov
+%% July 2026
 clear all;
 clc
 disp(' ============================================ ')
